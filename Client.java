@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import java.io.*;
 
 
-
+/*first change for try_gate*/
 public class Client {
 	
 	private ServerSocket welcomeSocket;
