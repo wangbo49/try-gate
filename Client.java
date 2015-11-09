@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import java.io.*;
 
 
-/*first change by yxnsu is a pig*/
+/*first change by a pig*/
 public class Client {
 	
 	private ServerSocket welcomeSocket;
